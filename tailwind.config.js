@@ -327,6 +327,9 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      futura: [
+        'Futura PT',                       
+      ],
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
